@@ -1,18 +1,17 @@
 ---
 layout: post
-title:  "Education must also train one for quick, resolute and effective thinking."
-author: dejuan
-categories: [ Strategic Marketing ]
-image: assets/images/3.jpg
-beforetoc: "Markdown editor is a very powerful thing. In this article I'm going to show you what you can actually do with it, some tricks and tips while editing your post."
+title:  "Elements of an Effective Statement"
+author: John
+categories: [ Strategizing ]
+image: assets/mission-statement.jpg
 toc: true
 ---
 
-## Three Elements of an Effective Statement
-
 Developing the mission statement and vision statement plays a significant role in company development. These two statements enable your organization to get the ball rolling. Therefore, it's essential to assure your document comprises valuable characteristics which include:
 
-An _effective mission statement_ consists of 3 essential components:
+## Three Elements of an Effective Statement
+
+An *effective mission statement* consists of 3 essential components:
 
 1. Key market—which refers to the customers your organization is pursuing (target audience).
 2. Contribution—the product or service your organization is offering
@@ -32,7 +31,7 @@ As you can see, this statement clearly states what Facebook does and how they do
 
 You should write every mission statement for customers and employees. Therefore, before you develop this document, you must identify your target audience.
 
-The purpose of the _mission statement_ is to tell customers why they should do business with you. It should also define the fundamental purpose of your organization while addressing your employees and your target market customers. This is essential because you should structure this document to inspire both the customer and employee.
+The purpose of the *mission statement* is to tell customers why they should do business with you. It should also define the fundamental purpose of your organization while addressing your employees and your target market customers. This is essential because you should structure this document to inspire both the customer and employee.
 
 Last but not least, the statement should summarize the company's objectives and goals. A typical statement is anywhere from 1 to 3 sentences, at most a paragraph.
 

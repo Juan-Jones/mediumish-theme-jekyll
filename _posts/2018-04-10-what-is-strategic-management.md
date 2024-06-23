@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Education must also train one for quick, resolute and effective thinking."
-author: dejuan
-categories: [ Strategic marketing ]
-image: assets/images/3.jpg
-beforetoc: "Markdown editor is a very powerful thing. In this article I'm going to show you what you can actually do with it, some tricks and tips while editing your post."
-toc: true
+title:  "What is Strategic Management"
+author: john
+categories: [ Strategizing ]
+image: assets/strategic-management.jpg
 ---
 
-## Introduction to Strategic Management
+Strategic management is more than just a business buzzword; it's an essential practice for organizations aiming to thrive in a competitive market. Companies that engage in strategic management are better equipped to foresee and respond to market changes, technological advancements, and shifts in consumer preferences. According to a survey by McKinsey & Company, 70% of executives say their companies could benefit significantly from strategic planning.
+
+## What is Strategic Management
 
 Strategic management is a process that involves identifying and enforcing your organizational business strategy. It comprises specifying organizational objectives, developing policies, and devising plans to achieve objectives. More importantly, it helps you gather resources to pursue the plan.
 
@@ -16,7 +16,7 @@ The strategic management framework gives you the ability to analyze both interna
 
 In addition, it gives you the ability to evaluate your mission and strategic issues. Ultimately, you can strengthen your current business activities and determine the need for new programming.
 
-## Strategic Management Processes
+## Strategic Management Process
 
 The strategic management process helps organizations increase awareness & competitiveness. It is one of a few frameworks that enable companies to attain sustainable success.
 
@@ -36,6 +36,16 @@ Briefly, the strategic management process helps you gather resources to tackle y
 * Strategic control and feedback — an ongoing process that involves scanning and reviewing strengths, weaknesses, opportunities and threats
 
 All in all, the strategic management process is essential for growth and development. Therefore, it's essential to keep innovating as time goes by, so you don’t get left behind. You must continuously adapt to the environment.
+
+### Vision and Mission Statements
+
+At the heart of strategic management are the vision and mission statements. These statements provide direction and a sense of purpose for the organization. The vision statement outlines what the company aspires to become in the future, while the mission statement defines the organization’s core purpose and primary objectives.
+
+Example: A company's vision might be "to be the leading provider of sustainable energy solutions," while its mission could be "to innovate and provide top-quality renewable energy products that enhance the lives of our customers."
+
+### Environmental Scanning
+
+Environmental scanning involves analyzing external and internal factors that can impact the organization. This includes monitoring industry trends, competitive landscape, regulatory changes, and technological advancements. Tools such as SWOT analysis (Strengths, Weaknesses, Opportunities, Threats) and PEST analysis (Political, Economic, Social, Technological) are commonly used.
 
 ### Strategy Formulation
 
@@ -57,9 +67,7 @@ You must evaluate your company's resources after identifying your strengths and 
 
 ### Strategy Formation
 
-Strategy formation is a critical stage of strategic management. The strategy formation process is an ongoing process that involves assessing and re-assessing strategic techniques to gain an edge.
-
-In the end, the aim of strategy formation is to identify and establish tactics to gain an advantage in your respective marketplace. Once you have gathered enough information to increase your competitiveness, setting goals to achieve these strategies would be the next step.
+Strategy formation is a critical stage of strategic management. The strategy formation process is an ongoing process that involves assessing and re-assessing strategic techniques to gain an edge. In the end, the aim of strategy formation is to identify and establish tactics to gain an advantage in your respective marketplace. Once you have gathered enough information to increase your competitiveness, setting goals to achieve these strategies would be the next step.
 
 ### Goal Setting
 
@@ -73,7 +81,7 @@ Setting goals helps your organization add clarity to the mission and vision. It 
 
 ### Strategy Implementation
 
-The next phase of _strategic management_ is the implementation of the strategy. Strategy execution is perhaps the most pivotal phase of strategic management.
+The next phase of *strategic management* is the implementation of the strategy. Strategy execution is perhaps the most pivotal phase of strategic management.
 
 Strategy implementation helps you determine what resources are used towards your objectives. It involves identifying mergers, acquisitions, and divestitures. This process also involves identifying financial plans and budgets.
 
@@ -91,8 +99,8 @@ Control and feedback is a process that allows managers to determine if their tea
 
 Strategy monitoring is the last step of strategic management. This step helps you to increase your market position. This is a key component to developing or enhancing your growth strategy.
 
-When writing your _business plan_, it's important to understand what material goes into the plan. Therefore, research should be your initial priority. Explore every aspect of your business. Especially if you're launching a startup and seeking to gain bank loans or investments.
+When writing your *business plan*, it's important to understand what material goes into the plan. Therefore, research should be your initial priority. Explore every aspect of your business. Especially if you're launching a startup and seeking to gain bank loans or investments.
 
 Typically, banks or investors require a detailed plan illustrating how and when they will receive their return on investment (ROI).
 
-However, even if your company doesn't need financing, _writing a business plan_ is still vital for success. It will help you identify market advantages, internal opportunities, weaknesses, and much more.
+However, even if your company doesn't need financing, *writing a business plan* is still vital for success. It will help you identify market advantages, internal opportunities, weaknesses, and much more.

@@ -1,172 +1,137 @@
 ---
 layout: post
-title:  "How to Develop a Marketing Strategy"
+title:  "How to Develop a Marketing Plan"
 author: dejuan
-categories: [ Strategic Marketing ]
-image: assets/images/3.jpg
-beforetoc: "Markdown editor is a very powerful thing. In this article I'm going to show you what you can actually do with it, some tricks and tips while editing your post."
-toc: true
+categories: [ Planning ]
+image: assets/develop-mktg-plan.jpg
+featured: true
 ---
 
-Developing a marketing strategy can seem daunting, but it’s a crucial part of running a successful business. A well-crafted strategy helps businesses reach their target audience, build brand awareness, and ultimately drive sales. Whether you're a startup or an established company, understanding how to develop a marketing strategy can 
+The **marketing plan** is the most reliable document for business growth. This goal-driven document helps you achieve corporate goals and objectives. The plan contains a list of actions that enables you to achieve your company's vision. Developing a well-written marketing plan enables you to define marketing solutions.
 
-## What is a Marketing Strategy?
+The *marketing plan* is like a cheat sheet or a guide to solving internal and external marketing problems. It can support your business plan.
 
-A marketing strategy is a comprehensive plan designed to promote products or services to the target audience. It outlines the business’s value proposition, key messages, target audience, and the tactics that will be used to reach potential customers. Essentially, it’s the roadmap that guides marketing efforts and helps ensure that all activities are aligned with the business’s goals.
+## Marketing Plan Content for Small Businesses
 
-## Strategic Marketing Importance
+Your marketing plan is based on where your organization plans to be in the future. This comprehensive document provides a rundown of concrete actions that must be taken over time to achieve the desired marketing initiatives. Content for a small business marketing plan includes:
 
-A solid marketing strategy is essential for several reasons:
+*Description* - A description of the product(s) and its features.
 
-Direction and Focus: It provides a clear direction and keeps the team focused on specific goals.
-Efficient Resource Allocation: It helps in making informed decisions about where to allocate resources for maximum impact.
-Consistency: Ensures a consistent message across all marketing channels.
-Measurement: Allows for the tracking and measurement of marketing efforts to determine their effectiveness.
+*Competitive analysis* - an analysis and evaluation of the strengths and weaknesses of competitors.
 
-## Steps to Develop a Marketing Strategy
+*Situational analysis* - a series of methods used to analyze an organization's internal and external environment hoping to understand organizational skills, customers, and business environments.
 
-If you develop your marketing strategy with the components below, you will attract valuable customers. Ultimately, your company can compete in a competitive market. The marketing strategy is a long-term game plan that helps you;
+*Marketing plan budget* - reports that predict future sales and strategies to save money (sales forecast, marketing budget).
 
-After you develop your strategy, you should have a better understanding of your market. It will enable you to identify your target market. In addition, the strategy will provide you with information about your competitors. This will help you find out what your competitors are up to. You will learn more about your company. In the end, you’ll make better marketing decisions. Without further ado, lets explore 12 steps that will help you develop your marketing strategy:
+*Marketing strategies* - identification of strategies and techniques to influence customers (advertising and promoting).
 
-### 1. Know Your Products
+*Pricing strategy* - a tactic used to determine a productive price for products and services.
 
-Rule number one, know your products. Rule number two, know your brand. Before you develop your marketing strategy, it's essential to have a complete understanding of what you're presenting to the market. In addition, you must develop an understanding of how the customer perceives your product.
+*Market segmentation* - a process that involves dividing or grouping the target market into smaller categories to identify high-yielding customers.
 
-Before you introduce a product to the market, you must know your product and your brand. By understanding your brand and products, you can answer questions buyers or investors may ask. Specifically, questions like "What problems do your products solve"? Are your products user-friendly? Will consumers have emotional triggers when using your product(s)? At the end of the day, you must identify the benefits of your product(s). But, you must also recognize its defects.
+What is the difference between the marketing plan and marketing strategy? The strategy maps out the directions of an organization. This document describes what you need to achieve marketing efforts. It details the approach for organizational sustainability futuristically; usually, 3 - 5 years in advance.
 
+Whereas, the marketing plan details how you will achieve your marketing efforts. The plan is a bit more detailed. It's a goal-driven document that outlines your marketing efforts.
 
-### 2. Describe Your Business Goals
+## Marketing Plan Components
 
-To start with, you must identify your business goals. Establishing your business goals is the following step. Documenting your business goals will give your management team something to aim for. It's essential to include goals for every period, i.e., short-term, mid-term, and long-term. That way, the organization is constantly on the go.
+Before you jump into planning, you must understand, the plan is only as good as the people behind it. You can have the best plan in the world, if you don't have adequate components, it won't work. For this purpose, it's essential to identify valuable components for your marketing plan.
 
-But to ensure business success early on, it's advised to develop SMART (specific, measurable, attainable, realistic, time-specific) business objectives. That way, you can increase your chances of achieving your business objectives.
+You also have to understand that your strategy is the basis of your marketing plan. Without a solid marketing strategy, your plan doesn't stand a chance. Therefore, it's essential to develop your strategy before your plan or simultaneously.
 
-Therefore, focus on establishing internal and external goals. For instance, you can develop internal objectives like increasing your profit margin. Or you can establish external targets like growing your customer base.
+### 1. Situational Analysis
 
+The situational analysis involves 3 major processes: SWOT analysis, 5 C’s analysis, and Porter's five forces analysis. It enables you to examine your business from an internal and external perspective. From this analysis, you can identify hidden opportunities and threats. In the end, the situation analysis helps you to address the current state of your business: Where do you stand now?
 
-### 3. Write Your Marketing Goals
+### 2. Competitive Analysis
 
+The competitor analysis is one of the most effective elements of marketing. It's a. process that involves examining your rivals. Conducting the competitive analysis will help you uncover deep insights about your competitors. However, if you're seeking to gain a sustainable competitive advantage, you must study your rivals. This analysis helps you uncover valuable information.
 
+For example, let's say you want to expand your web presence. Therefore, you analyze your rival's websites or blogs for keyword percentages, back-links, and on-page optimization strategies. Uncovering this data can help you out-rank your rivals on major search engines.
 
-<p id="gdcalert15" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image13.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert16">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+The competitive analysis examines your competitions:
 
+* Background information with a detailed examination of the owners, location, and the organization’s structure.
+* Financial data involves investigating dividend policy, profit margin, and growth strategies.
+* Goods and services entail you examining new products and the existing ones being sold.
+* Personnel and number of employees, this includes their skill set, management style, and more.
 
-![alt_text](images/image13.jpg "image_tooltip")
-Write Your Marketing Goals
+In the long haul, you can increase your competitiveness by obtaining knowledge about your competitors.
 
-Every marketing strategy must include marketing goals. You can't properly develop your marketing strategy without goals. Goals provide you with a target, something to strive for. Without a target to reach, there’s nothing to strive for. Therefore, it’s imperative to write your goals to provide clarity to your vision. Like they say, "you can't reach a destination without a plan to get there". Goals are like mile markers, they give you the ability to identify how close you are to your destination.
+### 3. Marketing Mix
 
-Establishing targets and objectives is the foundation of organizational growth. It gives your organization the ability to increase sales, improve awareness, and gain new customers. Setting marketing goals and objectives enables you to know where you're headed and how to get there.
+The original marketing mix refers to a set of tools that helps businesses pursue market objectives. You can use these tools to influence consumers to purchase your products or services. Moreover, you can use the mix to make better decisions about your price, place, product, and promotion methods.
 
+The original mix or 4 P’s of marketing stands for price, place, product, and promotion.
 
-### 4. Investigate the Market
+Effectively implementing the mix will help you improve your market position. It will also help you differentiate your organization from your competitors. Ultimately, you can drive sales to your business by differentiating your organization from your competitors.
 
+### 4. Market Research
 
+Understanding the market is vital as a small business. To tell the truth, it's actually critical for all businesses. Research is one of the most important aspects of marketing. Therefore, market research should be on your to-do list.
 
-<p id="gdcalert16" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image14.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert17">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+Even though the two terms are similar, they are not the same. They are used for different reasons. Market research is an examination method that helps you develop an understanding of the market. It's used to understand your customers, competitors, and your company to increase competitiveness.
 
+Marketing research, conversely, deals with business opportunities and problems related to products, consumers, or services. The process involves fine-tuning your skills, monitoring performance indicators, and evaluating marketing measures.
 
-![alt_text](images/image14.jpg "image_tooltip")
-Investigate the Market
+You can use marketing research to gather and record data concerning your marketing mix. The data you collect allows you to identify how changes in your marketing mix affect your audience's behavioral patterns.
 
-Before you write your marketing strategy, you must investigate the market. Researching the market is a process that involves systematically gathering and interpreting information. This process is essential because it enables you to identify products and services that are in demand. In other words, you can discover what customers prefer.
+Ultimately, you can make better marketing decisions with the information you collect from both methods of research. Sound information permits you to address findings from research productively.
 
-The research process also plays a major role in your organization's performance. It helps you increase awareness and gain a better perspective. More importantly, you can use research to gain an edge in the market. Meticulously conducting market research will empower you to take your business to the next level.
+### 5. Market Segmentation
 
-The purpose of market research is to find out about the marketplace, more specifically, the 3 Cs, which stand for corporations, competitors, and customers.
+Market segmentation should be the next aspect of your plan. Segmentation encompasses dividing customers into groups or segments. Organizations divide customers based on their characteristics, which include common interest, lifestyle, and demographics.
 
+The reason for segmenting the market is to identify the most profitable segments. By the same token, each segment gives you a better understanding of the purchaser’s needs and motivations. Therefore, it's important to establish long-term relationships with your customers. It will give you the ability to learn from your customers actively.
 
-#### Profile Your Competitors
+### 6. Pricing Strategy
 
-By now, I'm sure you've realized your business is not the only company in the market. Therefore, you need to look at the surrounding businesses. Hence, you'll need to profile your competitors.
+It's virtually impossible to generate profits without establishing a price for your products and services. For this purpose, you need to develop a pricing strategy.
 
-Profiling your competitors can actually help you develop your marketing strategy. Building a competitor profile can give you a clear understanding of what to do and what not to do. It can also help you save time and money.
+There are a few reasons why you must establish your prices. Firstly, establishing a balanced pricing strategy helps you prevent market loss. Secondly, setting your prices will enable you to improve your profit margin. Thirdly, effectively pricing your goods can enable your organization to gain more customers. You can achieve this by setting your prices below others in your market.
 
+### 7. Sales Forecast and Budget
 
-#### Analyze Research Data
+The sales forecast is an estimate of future sales. It provides you with short-term and long-term data & information. These indicators help you make better decisions about financial elements like cash flow estimation, cash budgeting, capital budgeting, capital structured analysis, and validation.
 
-After you investigate the market, you must analyze market research data. On the surface, strategic marketing steers your organization in the right direction. But it is at the core of marketing strategy where deep insights are solutions delivered.
+Sales forecasting is the backbone of financial planning. It helps your organization manage inventory and determines how many employees you need. In addition, it enables your organization to make better decisions about budgeting, purchasing and investors, and production.
 
-Market intelligence provides you with sound information. You can develop insights through methods like; internal business analysis, external market analysis, competitor analysis, customer analysis, market analysis, etc.
+The budget is a critical document that depends on accuracy. Every business institution must develop a budget plan. The aim of your budget entails the combination of expenses from all business endeavors into one comprehensive document. Your budget represents an unequivocal projection of actions and expected results.
 
-Above all, the data and information collected from research help you make better marketing decisions. The findings give your organization the ability to prioritize the insights necessary to achieve your corporate objectives. Subsequently, you can use this information to develop a comprehensive game plan.
+The total budget differs for newer companies compared to existing ones. Startup companies are getting their businesses up and running. Therefore, newer companies will need to spend more revenue on their marketing budget. For instance, newer companies (under 4 years of experience) should devote around 1/4 of their annual revenue to the marketing budget.
 
+Typically, established companies (over 4 years of experience) don’t need an enormous budget, unless they're seeking to expand. Popular business institutions will use around 1/5 of their annual revenue on budgeting.
 
-### 5. Identify Your Target Audience
+### 8. Marketing Strategy
 
-Identifying the target audience is one of the most important phrases in developing the marketing strategy. The target audience refers to the group of consumers predetermined as your perfect customer. These individuals have been segmented into subgroups through their likelihood of buying your products. By examining factors including their age, purchasing power, gender, gender, geographical location, and marital status.
+It’s impossible for your establishment to endure without profits. A business must produce profits to stay in business. However, you need customers to sell your product and services. For this reason alone, it’s urgent to develop a solid strategy.
 
-Customers are by far the most valuable asset to organizations. Without customers, an organization can't survive. Even if the business has the finest products in your marketplace. For this purpose, you need to identify your target audience.
+Keep in mind your strategy must reach its intended audience. It must address your market plan goals.
 
+The strategy serves as a strategic roadmap or blueprint for your marketing plan. It helps you identify internal/external market opportunities and obstacles. A solid marketing strategy will give you the ability to identify effective methods of advertising and promoting. Consequently, you can boost profits.
 
-#### Profile Your Target Audience
+Above all, the amount of money you spend merely depends on your marketing experience. If you know how to create promotional campaigns on social media platforms or social video platforms, you can save money. However, you’ll need to determine if the money you save is worth the time you’ll spend.
 
-Profiling your customers enables your organization to develop an understanding of who your customers are. It also provides you with information on what they do. This can help you offer your customers better products and services. This enables a company to innovate, grow, and prosper.
+### 9. Analysis and Examination of Plan
 
-What is a customer profile? A customer profile or consumer profile is a document that reveals the purchasing patterns of an organization's customers. It also reveals their interests, demographic characteristics, and socioeconomic status, along with other traits.
+Once your plan is intact, you can analyze and measure your results. This allows you to track your growth. However, you must delegate duties to competent members of your organization. These team members will collect data on market dynamics, sales volume, milestones, and profitability.
 
+Typical elements that are analyzed and measured include:
 
-### 6. Produce a Competitive Strategy
+* Evaluate existing marketing efforts
+* Examine performance indicators
+* Examine marketing channels
+* Measure effectiveness of current marketing strategies
+* Analyze and measure new strategies
 
-Developing a competitive strategy involves identifying factors that enable your organization to outperform your competitors. The process helps you develop a better understanding of the business environment. It helps you identify internal and external business factors that will help you gain a maintainable competitive advantage.
+This observation allows you to determine the strengths and weaknesses of your plan. It's recommended to analyze and measure your marketing plan quarterly.
 
-3 characteristics of a generic competitive strategy:
+### 10. Performance Indicators (Measure and Monitor)
 
+Last but not least, you must monitor the marketing plan. You must constantly monitor your plan to identify areas where you can improve. Remember, the goal is to gain a sustainable advantage over your rivals. Therefore, you must continuously improve your business.
 
+Hence, strive to stay two steps ahead of your competition. Don't worry about the things you can't control, instead focus on outworking your rivals and developing a long-term relationship with your customers. Remember that hard work always beats talent.
 
-* Extraordinary skills - (e.g. developing specialists through seminars, training, or professional development courses)
-* 
-* Superior position - (the degree to which your product(s), services, and the marketplace is isolated from the competition)
-* 
-* Distinctive resources - (the access you have to specialized assets, e.g. suppliers, patents, trademarks, etc)
+You can find several tracking systems on the internet that specialize in analytics: tracking website data, measuring conversation rates and testing promotional campaigns, etc. As noted, you can use the data you collect to improve areas of need.
 
-The competitive strategy focuses on two variants, cost focus and differentiation focus. Cost focus is a strategic technique that highlights cost minimization within a target market. Differentiation focus is also a strategic technique, as it highlights pursuing tactical differentiation with a focused market.
-
-
-### 7. Create a Growth Plan
-
-Developing an _effective marketing strategy_ is no simple process. Therefore, it’s important to start in the right direction when you launch a business or develop new products. For this purpose, it's important to focus on establishing a growth plan.
-
-The growth strategy or growth plan is a set of marketing actions that enables you to attain a higher market share. It involves identifying components of the business in which the customer perceives value. The process involves planning business intentions and developing tactics to achieve goals.
-
-
-### 8. Develop a Unique Selling Proposition (USP)
-
-As a small business, one thing that you want to ensure customers is the value of your products and services. Therefore, it is critical to focus on developing a unique selling proposition (USP). Utilizing this promotional technique can inadvertently influence consumers to purchase from you as opposed to competitors. You can start captivating customers from your competitors by producing an effective, unique selling proposition.
-
-The unique selling proposition (USP) or unique selling point refers to features or benefits that differentiate a service, brand, or product from competitors.
-
-The main reason for the establishment of a unique selling point is to ensure the success of your products and services. As noted, generating an indisputable USP allows you to distance your brands, products, and services from your competitors. But it also enables customers to differentiate products and services, which increases levels of brand recall.
-
-Developing a unique selling proposition (USP) requires extensive research about your customers and category. However, effectively creating your USP will enable you to focus on the next task.
-
-
-### 9. Identify Opportunities
-
-As a small business, it's crucial to be in the right place at the right time. This means you must be where the customers are. If you don't have customers, you can't earn money. For this purpose, you must identify unique opportunities. In other words, you must identify market opportunities. These could be internal or external opportunities. For example, your business idea, marketing channels, team members, skills, or pricing strategies.
-
-
-### 10. Discover Productive Marketing Channels
-
-How can you find productive marketing channels for business promotion? For beginners, you must identify your niche to discover valuable marketing channels. You'll need to find out your passion or things you enjoy doing. Are you a skilled videographer, writer, speaker, etc?
-
-A marketing channel is a platform where goods and services are transferred between businesses and people. According to Wikipedia, a marketing channel comprises people, organizations, and activities necessary to transfer the ownership of goods from the point of production to the point of consumption.
-
-For starters, it's important to focus on mastering one channel at a time. Once you've mastered one channel, you can move to the next.
-
-Luckily for you, most people use digital technology these days. What does this mean? Digital marketing channels can help your business grow. Many small businesses have established market positions overnight through social channels.
-
-
-### 11. Audit Your Strategy
-
-The second to last step to developing your marketing strategy involves auditing your strategy. Auditing your strategy lets you know if your organization is ready to pursue the strategy. This process comprises examining all phases of your strategy. From your products to the identification of marketing channels.
-
-It's easy to get caught up believing the job is complete once you've allocated, so must data and info. Nonetheless, the marketing strategy is an endless process; it requires continuous maintenance, updates, and revisions. More importantly, it requires a significant amount of groundwork, studying, and patience.
-
-
-### 12. Insert Strategy Into Marketing Plan
-
-After you develop your marketing strategy, you'll need to insert it into your marketing plan. However, you must review your strategy to determine if it is safe to move on.
-
-A plan like a strategy also contains a set of tools, and techniques that help your business grow. The plan supplies you with an outline to carry out your objectives. It contains tools and techniques that help you achieve distinctive marketing goals & objectives within a measured time frame.
+Staying on track is the key to attaining long-term success for your business. Focusing on these issues helps your organization stay in line with your corporate mission.

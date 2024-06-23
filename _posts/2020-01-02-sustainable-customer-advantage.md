@@ -3,14 +3,12 @@ layout: post
 title:  "Education must also train one for quick, resolute and effective thinking."
 author: dejuan
 categories: [ Strategic marketing ]
-image: assets/images/3.jpg
-beforetoc: "Markdown editor is a very powerful thing. In this article I'm going to show you what you can actually do with it, some tricks and tips while editing your post."
-toc: true
+image: assets/sustainable-competitive-advantage.jpg
 ---
 
 ## How to Gain a Sustainable Competitive Advantage
 
-Developing a competitive advantage is not a simple task, let alone _gaining a sustainable competitive advantage_. If gaining a long-term advantage was a simple task, most organizations would opt for it.
+Developing a competitive advantage is not a simple task, let alone *gaining a sustainable competitive advantage*. If gaining a long-term advantage was a simple task, most organizations would opt for it.
 
 Many companies spend a lifetime trying to outperform the competition. But where these companies fail, you can succeed. Here are the key ingredients for gaining a sustainable competitive advantage:
 
@@ -30,11 +28,11 @@ The most effective technique for this process is marketing research. Research he
 
 You have to keep your customers happy to succeed. Even though this sounds like a simple task, many companies fail to accomplish this matter. As a consequence, customers become dissatisfied customers. This ultimately leads to organizations losing customers or legal problems.
 
-Keeping customers happy is crucial to success. It's a key factor in _gaining a sustainable competitive advantage_. Therefore, it is vital to focus on understanding what customers need and build long-term relationships. Your business will sustain itself through difficulties.
+Keeping customers happy is crucial to success. It's a key factor in *gaining a sustainable competitive advantage*. Therefore, it is vital to focus on understanding what customers need and build long-term relationships. Your business will sustain itself through difficulties.
 
 There are two possible outcomes of conducting business online. You could either enhance or ruin your online reputation. To improve your reputation,
 
-If you keep customers happy, online users will post positive reviews about your business or like, subscribe, share, retweet, repost, etc. Therefore, it's essential to _keep customers happy_. Conversely, if customers are unhappy, they will post negative reviews about your organization. Most of us have viewed consumer complaints on the internet. Hence, you must keep customers happy.
+If you keep customers happy, online users will post positive reviews about your business or like, subscribe, share, retweet, repost, etc. Therefore, it's essential to *keep customers happy*. Conversely, if customers are unhappy, they will post negative reviews about your organization. Most of us have viewed consumer complaints on the internet. Hence, you must keep customers happy.
 
 The one word to explain the marketing strategy would be "longevity". An effective strategy focuses on long-term strategies. To keep customers happy, you must understand their needs and wants. Understanding the needs and wants of customers is one of the first steps in developing your marketing strategy.
 
