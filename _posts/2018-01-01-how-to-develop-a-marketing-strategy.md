@@ -13,7 +13,7 @@ Developing a marketing strategy can seem daunting, but it's a crucial part of ru
 
 A marketing strategy is a comprehensive plan designed to promote products or services to the target audience. It outlines the business's value proposition, key messages, target audience, and the tactics that will be used to reach potential customers. Essentially, it's the roadmap that guides marketing efforts and helps ensure that all activities are aligned with the business's goals.
 
-## SgMarketing Strategy Importance
+## Marketing Strategy Importance
 
 A solid marketing strategy is essential for several reasons:
 
