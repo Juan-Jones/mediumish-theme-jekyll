@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Education must also train one for quick, resolute and effective thinking."
+title:  "Sustainable Competitive Advantage"
 author: dejuan
-categories: [ Strategic marketing ]
+categories: [ Strategizing ]
 image: assets/sustainable-competitive-advantage.jpg
 ---
 

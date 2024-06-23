@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  " What is an Executive Summary"
+title:  "What is an Executive Summary"
 author: dejuan
 categories: [ Planning ]
 image: assets/executive-summary.jpg

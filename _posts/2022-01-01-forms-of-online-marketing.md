@@ -1,58 +1,45 @@
 ---
 layout: post
 title:  "Forms of Online Marketing"
-author: dejuan
+author: john
 categories: [ Internet marketing ]
-image: assets/images/3.jpg
+image: assets/online-marketing-forms.jpg
 ---
+
+Online marketing is a vast and dynamic field with numerous strategies and techniques. This guide explores various forms of online marketing, including SEO, PPC, social media marketing, content marketing, email marketing, influencer marketing, affiliate marketing, and video marketing. Each form has unique benefits and applications, making it essential to understand their distinctions to craft an effective marketing strategy.
 
 ## Forms of Online Marketing
 
-Forms of Online Marketing
-
-The rapid expansion of the internet has produced several digital channels for internet users and marketers. Some are effective, whereas others are not so effective. However, the most effective forms of online marketing include:
-
-_Affiliate_: Affiliate marketing is the act of promoting products or services for a vendor for a commission.
-
-_Content_: Have you ever heard the term content is king? Content marketing is a process that involves creating, publishing, and distributing content to influence a target audience.
-
-_Email_: Email marketing is the oldest form of digital marketing. However, it's still effective. It involves sending emails or newsletters to leads, prospects, and customers. The aim of email campaigns is to keep customers (informed) in the loop and influence them to subscribe.
-
-_Online advertising_: Online advertising is a promotional method that comprises paying for advertisements. A few methods marketers use are; banner ads, remarketing, sponsored ads, and webinars.
-
-_Search Engine Optimization_: Search engine optimization or SEO is a process that involves optimizing a website or webpage to attain organic results. It comprises on-page optimization and technical optimization.
-
-_Search Engine Marketing_ (SEM): SEM is a marketing strategy that involves paying for advertisements. It consists of Pay-Per-Click (PPC) and Cost-Per-Mile (CPM).
-
-_Social Media_: Social media platforms give you the ability to connect with current customers and potential customers. There are plenty of social media platforms you can use to grow your business. Social media platforms like Facebook, Instagram, LinkedIn, Tumbler, etc.,
-
-_Video_: Video marketing involves persuading an audience to engage with a brand, product, or service through the development of video content.
-
-As you can see, there are many ways to market your business on the Web. However, you will need to create a marketing strategy to ensure your success.
+*Affiliate*: Affiliate marketing is the act of promoting products or services for a vendor for a commission.
+*Content*: Have you ever heard the term content is king? Content marketing is a process that involves creating, publishing, and distributing content to influence a target audience.
+*Email*: Email marketing is the oldest form of digital marketing. However, it's still effective.
+*Online advertising*: Online advertising is a promotional method that comprises paying for advertisements.
+*Search Engine Optimization*: Search engine optimization or SEO is a process that involves optimizing a website or webpage to attain organic results.
+*Search Engine Marketing* (SEM): SEM is a marketing strategy that involves paying for advertisements.
+*Social Media*: There are plenty of social media platforms you can use to grow your business.
+*Video*: Video marketing involves persuading an audience to engage with a brand, product, or service through the development of video content.
 
 ## Advantages of Online Marketing
 
 There are many advantages of online marketing. Once you understand the power of online marketing, you can accomplish your organizational marketing efforts much easier. More importantly, you can increase business sales, attract new customers and reach existing customers. Online marketing gives your business the ability to promote products & services 24/7. You can literally make money while you sleep!
 
-    The evolution of online marketing opened a window of opportunity for entrepreneurs and small businesses.
+> The evolution of online marketing opened a window of opportunity for entrepreneurs and small businesses.
+ Dejuan Jones
 
-
-    Dejuan Jones
-
-* _Global reach_ - A key benefit of online channels is the ability to reach customers globally. In the past, organizations could only use postal services, radio stations, or television ads to influence consumers. Fast-forwarding to the present, businesses can connect with customers worldwide at the touch of a button.
-* _Cost-efficient_ - In the past, major corporations were the only businesses that could afford to market to customers worldwide. However, online marketing is inexpensive, unlike traditional media advertising methods. To tell the truth, it's one of the most inexpensive forms of promotion.
-* _Measurable_ - Analytics allows you to measure the effectiveness of your campaigns without spending a dime.
-* _Targeting valuable customers_ - You can target valuable customers effectively thanks to internet technology.
+* Global reach - A key benefit of online channels is the ability to reach customers globally. In the past, organizations could only use postal services, radio stations, or television ads to influence consumers. Fast-forwarding to the present, businesses can connect with customers worldwide at the touch of a button.
+* Cost-efficient - In the past, major corporations were the only businesses that could afford to market to customers worldwide. However, online marketing is inexpensive, unlike traditional media advertising methods. To tell the truth, it's one of the most inexpensive forms of promotion.
+* Measurable - Analytics allows you to measure the effectiveness of your campaigns without spending a dime.
+* Targeting valuable customers - You can target valuable customers effectively thanks to internet technology.
 
 By being in the right place at the right time, not only can you increase your online presence, but you can gain an edge over your competitors, as noted. Ultimately, you can dominate your respective marketplace!
 
 ### Online Marketing Statistics
 
-As the marketing discipline continues to mature and develop, _online marketing_ has become the most explosive method of digital marketing over the past decade. According to the latest Digital 2019 Hootsuite report, the average person spends roughly 6 hours and 42 minutes online.
+As the marketing discipline continues to mature and develop, *online marketing* has become the most explosive method of digital marketing over the past decade. According to the latest Digital 2019 Hootsuite report, the average person spends roughly 6 hours and 42 minutes online.
 
 ## 7 Online Marketing Tactics
 
-If you're not _marketing online_ these days, you're missing out! Without a doubt, the Internet is by far the most profitable resource for advertising or promoting. There are more businesses and customers are purchasing online than ever before. For small businesses, it's the safest way to compete in the market.
+If you're not *marketing online* these days, you're missing out! Without a doubt, the Internet is by far the most profitable resource for advertising or promoting. There are more businesses and customers are purchasing online than ever before. For small businesses, it's the safest way to compete in the market.
 
 What does this mean for your business? Well, these organizations aren't purchasing ads for no reason, they're online because online advertising is a goldmine as mentioned earlier. Below are 7 online marketing tactics:
 

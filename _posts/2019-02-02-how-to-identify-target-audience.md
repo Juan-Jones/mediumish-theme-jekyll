@@ -4,13 +4,12 @@ title:  "Discover Your Target Audience"
 author: dejuan
 categories: [ Marketing strategy ]
 image: assets/images/3.jpg
-beforetoc: "Markdown editor is a very powerful thing. In this article I'm going to show you what you can actually do with it, some tricks and tips while editing your post."
 toc: true
 ---
 
 ## Strategies to Discover Your Target Audience
 
-The first aim of your marketing strategy should be to **discover your target audience**! Identifying your target audience enables you to develop a strategic marketing plan.
+The first aim of your marketing strategy should be to **discover your target audience**! Identifying your target audience enables you to [develop a marketing strategy]({{< relref "2019-02-02-how-to-develop-a-marketing-strategy" >}}).
 
 To be honest, it can become costly to promote a marketing message without knowing who the message is intended for. Imagine reading a book to a group of students virtually without knowing if there are students in the room. It could become a waste of time if no one was in the room. However, if you could discover which students were in the room, it would be worth your time. It can become costly to promote a marketing message without knowing who the message is intended for.
 

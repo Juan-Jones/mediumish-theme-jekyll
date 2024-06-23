@@ -1,8 +1,6 @@
 ---
 layout: post
 title:  "Fundamentals of SEO"
-date: 2023-01-01 10:00:00 +0000
-last_modified_at: 2024-06-20 12:00:00 +0000
 author: dejuan
 categories: [ Internet marketing ]
 image: assets/seo-fundamentals.jpg

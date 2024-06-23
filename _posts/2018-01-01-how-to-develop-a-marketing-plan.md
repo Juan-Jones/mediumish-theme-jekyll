@@ -9,24 +9,18 @@ featured: true
 
 The **marketing plan** is the most reliable document for business growth. This goal-driven document helps you achieve corporate goals and objectives. The plan contains a list of actions that enables you to achieve your company's vision. Developing a well-written marketing plan enables you to define marketing solutions.
 
-The *marketing plan* is like a cheat sheet or a guide to solving internal and external marketing problems. It can support your business plan.
+The marketing plan is like a cheat sheet or a guide to solving internal and external marketing problems. It can support your business plan.
 
 ## Marketing Plan Content for Small Businesses
 
 Your marketing plan is based on where your organization plans to be in the future. This comprehensive document provides a rundown of concrete actions that must be taken over time to achieve the desired marketing initiatives. Content for a small business marketing plan includes:
 
 *Description* - A description of the product(s) and its features.
-
 *Competitive analysis* - an analysis and evaluation of the strengths and weaknesses of competitors.
-
 *Situational analysis* - a series of methods used to analyze an organization's internal and external environment hoping to understand organizational skills, customers, and business environments.
-
 *Marketing plan budget* - reports that predict future sales and strategies to save money (sales forecast, marketing budget).
-
 *Marketing strategies* - identification of strategies and techniques to influence customers (advertising and promoting).
-
 *Pricing strategy* - a tactic used to determine a productive price for products and services.
-
 *Market segmentation* - a process that involves dividing or grouping the target market into smaller categories to identify high-yielding customers.
 
 What is the difference between the marketing plan and marketing strategy? The strategy maps out the directions of an organization. This document describes what you need to achieve marketing efforts. It details the approach for organizational sustainability futuristically; usually, 3 - 5 years in advance.

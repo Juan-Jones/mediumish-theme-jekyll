@@ -4,7 +4,7 @@ title:  "Developing Strategic Thinking Skills"
 author: dejuan
 categories: [ Strategizing ]
 image: assets/images/3.jpg
-beforetoc: "In 1994, *Mintzberg wrote*, "the strategic thinking process is more about synthesis (i.e., "connecting the dots") than analysis (i.e., "finding the dots")"."
+beforetoc: "In 1994, Mintzberg wrote, "the strategic thinking process is more about synthesis or connecting the dots rather than analysis or finding the dots."
 toc: true
 ---
 

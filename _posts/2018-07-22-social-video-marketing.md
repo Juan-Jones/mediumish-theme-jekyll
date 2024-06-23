@@ -1,8 +1,6 @@
 ---
 layout: post
 title:  "Social Video Marketing Best Practices"
-date: 2023-01-01 10:00:00 +0000
-last_modified_at: 2024-06-20 12:00:00 +0000
 author: john
 categories: [ Internet marketing ]
 image: assets/social-video-mktg.jpg

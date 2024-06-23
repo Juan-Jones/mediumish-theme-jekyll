@@ -1,11 +1,11 @@
 # Site
-name: "Marketting Strategy Planning Guide"
+name: "Marketing Strategy Planning Guide"
 title: "Online Marketing - SEO, SEM, SMO and More "
 description: "Find strategic marketing techniques and online marketing tools for small businesses. Discover tips for SEO, SEM SMM, research and more. Grow your company today!"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: 'https://earn-money-online.netlify.app'
-google_analytics: 'UA-46278016-1'
+baseurl: 'https://marketingstrategyplan.org'
+google_analytics: 'G-YKCBMGZ8LQ'
 disqus: 'afGZDYYvBY'
 mailchimp-list: 'https://mailchi.mp/9b768e7e0ee1/marketintg'
 include: ["_pages"]
@@ -22,7 +22,7 @@ authors:
     twitter: https://twitter.com/moneyonline_fre
     description: "Author of Marketingstrategyplan."
   john:
-    name: John
+    name: john
     display_name: John    
     avatar: 'assets/images/avatar.png'
     gravatar: b1cc14991db7a456fcd761680bbc8f81

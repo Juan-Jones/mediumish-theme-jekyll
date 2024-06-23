@@ -2,7 +2,7 @@
 layout: post
 title:  "Define Your Target Market"
 author: dejuan
-categories: [ Strategic marketing ]
+categories: [ Strategizing ]
 image: assets/target-market.jpg
 ---
 

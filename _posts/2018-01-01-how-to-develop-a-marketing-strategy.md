@@ -1,12 +1,9 @@
 ---
 layout: post
 title:  "How to Develop a Marketing Strategy"
-date: 2023-01-01 10:00:00 +0000
-last_modified_at: 2024-06-20 12:00:00 +0000
 author: dejuan
 categories: [ Strategizing ]
 image: assets/develop-mktg-strategy.jpg
-
 featured: true
 ---
 
@@ -27,7 +24,7 @@ A solid marketing strategy is essential for several reasons:
 
 ## Steps to Develop a Marketing Strategy
 
-If you develop your marketing strategy with the components below, you will attract valuable customers. Ultimately, your company can compete in a competitive market. The marketing strategy is a long-term game plan that helps you; 
+If you develop your marketing strategy with the components below, you will attract valuable customers. Ultimately, your company can compete in a competitive market. The marketing strategy is a long-term game plan that helps you;
 
 After you develop your strategy, you should have a better understanding of your market. It will enable you to identify your target market. In addition, the strategy will provide you with information about your competitors. This will help you find out what your competitors are up to. You will learn more about your company. In the end, you'll make better marketing decisions. Without further ado, lets explore 12 steps that will help you develop your marketing strategy:
 
@@ -72,7 +69,7 @@ Above all, the data and information collected from research help you make better
 
 Identifying the target audience is one of the most important phrases in developing the marketing strategy. The target audience refers to the group of consumers predetermined as your perfect customer. These individuals have been segmented into subgroups through their likelihood of buying your products. By examining factors including their age, purchasing power, gender, gender, geographical location, and marital status.
 
-Customers are by far the most valuable asset to organizations. Without customers, an organization can't survive. Even if the business has the finest products in your marketplace. For this purpose, you need to identify your target audience.
+Customers are by far the most valuable asset to organizations. Without customers, an organization can't survive. Even if the business has the finest products in your marketplace. For this purpose, you need to [identify your target audience]({{< relref "2019-02-02-how-to-identify-target-audience" >}}).
 
 #### Profile Your Target Audience
 
@@ -113,9 +110,7 @@ As a small business, it's crucial to be in the right place at the right time. Th
 
 How can you find productive marketing channels for business promotion? For beginners, you must identify your niche to discover valuable marketing channels. You'll need to find out your passion or things you enjoy doing. Are you a skilled videographer, writer, speaker, etc?
 
-A marketing channel is a platform where goods and services are transferred between businesses and people. According to Wikipedia, a marketing channel comprises people, organizations, and 
-activities necessary to transfer the ownership of goods from the point of production to the 
-point of consumption.
+A marketing channel is a platform where goods and services are transferred between businesses and people. According to Wikipedia, a marketing channel comprises people, organizations, and activities necessary to transfer the ownership of goods from the point of production to the point of consumption.
 
 For starters, it's important to focus on mastering one channel at a time. Once you've mastered one channel, you can move to the next.
 Luckily for you, most people use digital technology these days. What does this mean? Digital marketing channels can help your business grow. Many small businesses have established market positions overnight through social channels.

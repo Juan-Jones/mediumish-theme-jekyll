@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "YouTube Marketing Tips"
+title:  "What is Marketing"
 date: 2023-01-01 10:00:00 +0000
 last_modified_at: 2024-06-20 12:00:00 +0000
 author: dejuan
@@ -9,15 +9,13 @@ image: assets/what-is-marketing.jpg
 featured: true
 ---
 
+Marketing is an essential aspect of any business, large or small. It's the practice of promoting and selling products or services, including market research and advertising. Without effective marketing, even the best products can remain unnoticed, failing to reach their potential audience. This pillar page will explore the various facets of marketing, its importance, types, strategies, and the evolving trends in the industry.
+
 ## What is Marketing?
 
+At its core, marketing involves understanding customer needs and creating a unique value proposition to meet those needs. It’s a dynamic process that encompasses everything from product development to customer engagement. Marketing aims to build brand awareness, attract new customers, and retain existing ones through various techniques and channels.
+
 With so many definitions, understanding the true meaning of marketing can be problematic. Marketing is much more buying and selling. It is a set of activities and processes in which organizations undergo to buy or sell a product or service. It begins with studying and researching customers, competitors, and opportunities. The aim is to create awareness, gain competitive advantages and turn potential customers into customers.
-
-There are two ways to go about promoting and advertising. On one hand, you have the basic promotion concept. This concept comprises doing the bare minimum to get the word out. Then, you have the effective promoting concept. The effective promotion concept entails doing everything it takes to get the word out.
-
-Most companies implement basic forms of promotion. They don't care about what customers need or want. They care about maximizing profits and moving on to the next venture.
-
-Successful companies focus on effective marketing. Not only do they evaluate their products and services; they re-evaluate their products and services to assure they are meeting customer expectations. Afterward, they ask the customer if the product(s) or service(s) is up to par.
 
 ### Definition of Marketing
 
@@ -55,22 +53,20 @@ Traditional media marketing is the act of advertising or promotion by mass media
 
 Over the years, modern marketing has remained the strongest form of advertising or promotion. The success is due, in part, to the continuous development of digital technology. And of course, most people around the world use digital technology daily.
 
-### Processes of Marketing
+### Process of Marketing
 
-The processes of marketing include;
+The marketing process includes;
 
-* "Activating"–Activating is the act of forming. It involves the formulation and implementation of a plan or strategy.
-* "_Advertising and Promoting_"–The process is used to influence individuals to purchase products or complete an offer.
-* "Conceptualization"-Marketing begins with an idea. Before you can effectively promote or advertise, you must visualize the process.
-* "Critical Thinking"–A cognitive activity that begins with brainstorming to figure out an idea. Critical thinking can be an individual or collaborative activity. Many organizations use the critical thinking process known as strategic thinking to gather ideas.
-* "Market and Marketing Research"–Research focuses on elements that help you grow your business. Activities are needed to gain a better understanding of the market.
-* "Measuring and Evaluating"–Measuring and evaluating enables organizations to determine the effectiveness of the strategy.
-* "Planning"-When applied in an organization's strategic management process, planning outlines the marketing and advertising efforts for the coming year. The components of a marketing plan include; budget, goals and objectives, marketing mix, market plan strategies.
-* "Selling"–This is the act of persuading the target market.
-* "Strategizing"-Strategizing is a process that involves assessing necessary actions to develop a plan. When developing a marketing strategy, strategizing focuses on gaining a competitive advantage.
-* "Testing"-Testing is an experimental phase. It gives businesses the ability to identify the strengths and weaknesses of a product or service.
-
-Most small business owners are eager to get their business up and running to generate profits. However, it's critical to slow down and ensure everything is done correctly.
+* Activating: Forming or activating involves the formulation and implementation of a plan or strategy.
+* Advertising and Promoting: The process is used to influence individuals to purchase products or complete an offer.
+* Conceptualization: Before you can effectively promote or advertise, you must visualize the process.
+* Critical Thinking: A cognitive activity that begins with brainstorming to figure out an idea.
+* Market and Marketing Research: Research focuses on elements that help you grow your business.
+* Measuring and Evaluating: Measuring and evaluating enables organizations to determine the effectiveness of the strategy.
+* Planning: When applied in an organization's strategic management process, planning outlines the marketing and advertising efforts for the coming year.
+* Strategizing: When developing a marketing strategy, strategizing focuses on gaining a competitive advantage.
+* Testing: Testing is an experimental phase. It gives businesses the ability to identify the strengths and weaknesses of a product or service.
+* Selling: This is the act of persuading the target market.
 
 ### Orientations of Marketing
 
@@ -111,10 +107,7 @@ With so many businesses online and so much spam, influencing customers has becom
 
 How can you persuade customers? There are a few ways to go about influencing customers. The first method is problem-solving. It involves providing solutions for the target market. Problem-solving is the most effective method of influencing consumers and potential customers. The reason being is it provides value to the buyer.
 
-    You've got to start with the customer experience - and work back towards the technology - not the other way around.
-
-
-    Steve Jobs
+> You've got to start with the customer experience - and work back towards the technology - not the other way around. Steve Jobs
 
 Next, you must think like a customer to persuade a customer. Therefore, you must change your perspective. Put yourself in the buyer's shoes and evaluate your tactics, techniques, and strategies to develop a balanced understanding. For instance, when you develop your pricing strategy, focus on developing a balanced strategy. Try to identify the price median to avoid overpricing and underpricing your product(s).
 

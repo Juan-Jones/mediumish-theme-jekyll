@@ -1,8 +1,6 @@
 ---
 layout: post
 title:  "Market Research Types, Process, Tips"
-date: 2023-01-01 10:00:00 +0000
-last_modified_at: 2024-06-20 12:00:00 +0000
 author: dejuan
 categories: [ Research ]
 image: assets/market-research-process.jpg

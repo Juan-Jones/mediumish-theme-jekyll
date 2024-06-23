@@ -1,8 +1,6 @@
 ---
 layout: post
 title:  "Promotional Mix Components"
-date: 2023-01-01 10:00:00 +0000
-last_modified_at: 2024-06-20 12:00:00 +0000
 author: dejuan
 categories: [ Planning ]
 image: assets/promotional-mix-elements.jpg
