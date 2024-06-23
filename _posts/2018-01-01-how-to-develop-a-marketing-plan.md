@@ -1,5 +1,7 @@
 ---
 layout: post
+date: 2023-01-01 10:00:00 +0000
+last_modified_at: 2024-06-20 12:00:00 +0000
 title:  "How to Develop a Marketing Plan"
 author: dejuan
 categories: [ Planning ]
