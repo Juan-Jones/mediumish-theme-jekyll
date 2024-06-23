@@ -1,25 +1,23 @@
 ---
 layout: post
-title:  "Education must also train one for quick, resolute and effective thinking."
+title:  "Define Your Target Market"
 author: dejuan
 categories: [ Strategic marketing ]
-image: assets/images/3.jpg
-beforetoc: "Markdown editor is a very powerful thing. In this article I'm going to show you what you can actually do with it, some tricks and tips while editing your post."
-toc: true
+image: assets/target-market.jpg
 ---
 
-## How to Define Your Target Market
-
-Identifying customers within the _target market or primary market_ is the most important element to be successful with any business. For starters, discovering your primary market enables your organization to _identify high-yielding customers_. In other words, you can identify leads and prospects that have an interest in your products or services.
+Identifying customers within the *target market* or primary market is the most important element to be successful with any business. For starters, discovering your primary market enables your organization to identify high-yielding customers. In other words, you can identify leads and prospects that have an interest in your products or services.
 
 In addition, this marketing technique helps your organization identify valuable leads and prospects and convert them into customers. In the long run, ensures the longevity of your company.
+
+## How to Define Your Target Market
 
 Tactics to determine who your target market customers are:
 
 * Website analytics — There are several platforms that have their members analytical services (Google Analytics, Matomo Analytics, Hotjar, HubSpot).
 * Social media analytics — There are several platforms that offer their members analytical services (YouTube analytics, LinkedIn analytics, Facebook analytics).
 
-Identifying the _target market_ or primary market is one of the top priorities for developing a successful marketing strategy. Your organization can’t sell products or services without customers.
+Identifying the target market or primary market is one of the top priorities for developing a successful marketing strategy. Your organization can’t sell products or services without customers.
 
 ## Purpose of Identifying the Target Market
 
@@ -94,7 +92,7 @@ By the same token, this analysis will help you uncover market opportunities and 
 
 So you developed a notable product–now you’re looking for ideal customers to purchase your goods and services. The next step is to identify valuable customers or your target audience.
 
-But before you can identify your target audience, it's important to understand the meaning and the purpose of identifying these individuals. The target _audience_ is the audience the message needs to reach.
+But before you can identify your target audience, it's important to understand the meaning and the purpose of identifying these individuals. The target audience is the audience the message needs to reach.
 
 The aim is to discover the specific group of individuals who are likely to purchase your products and services. This helps your organization save time, money, and a headache. In addition, it’s almost impossible to target everyone, as you may already know. Therefore, you must narrow down the list of customers you plan to target.
 

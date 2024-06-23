@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "SWOT Analysis"
+title:  "What is SWOT Analysis"
 author: dejuan
 categories: [ Strategizing ]
 image: assets/swot-analysis.jpg

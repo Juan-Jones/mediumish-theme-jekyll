@@ -4,9 +4,9 @@ title:  "How to Develop a Marketing Strategy"
 date: 2023-01-01 10:00:00 +0000
 last_modified_at: 2024-06-20 12:00:00 +0000
 author: dejuan
-categories: [ strategic marketing ]
-image: assets/images/11.jpg
-description: "My review of Inception movie. Acting, plot and something else in this short description."
+categories: [ Strategizing ]
+image: assets/develop-mktg-strategy.jpg
+
 featured: true
 ---
 

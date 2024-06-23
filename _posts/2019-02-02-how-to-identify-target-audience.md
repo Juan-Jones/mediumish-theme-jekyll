@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Education must also train one for quick, resolute and effective thinking."
+title:  "Discover Your Target Audience"
 author: dejuan
 categories: [ Marketing strategy ]
 image: assets/images/3.jpg
@@ -10,7 +10,7 @@ toc: true
 
 ## Strategies to Discover Your Target Audience
 
-The first aim of your marketing strategy should be to _discover your target audience_! Identifying your target audience enables you to develop a strategic marketing plan.
+The first aim of your marketing strategy should be to **discover your target audience**! Identifying your target audience enables you to develop a strategic marketing plan.
 
 To be honest, it can become costly to promote a marketing message without knowing who the message is intended for. Imagine reading a book to a group of students virtually without knowing if there are students in the room. It could become a waste of time if no one was in the room. However, if you could discover which students were in the room, it would be worth your time. It can become costly to promote a marketing message without knowing who the message is intended for.
 
@@ -20,7 +20,7 @@ Of course, before you can pursue customers, you must attract them. Somebody inte
 
 ### Examine Competitors Customers
 
-Examining your competitor’s target _audience_ is a strategic technique that can enable your organization to gain a sustainable competitive advantage. This involves analyzing and understanding the techniques and strategies your rivals use for engaging in the target market. This can be accomplished by executing a process known as the competitor analysis.
+Examining your competitor’s target audience is a strategic technique that can enable your organization to gain a sustainable competitive advantage. This involves analyzing and understanding the techniques and strategies your rivals use for engaging in the target market. This can be accomplished by executing a process known as the competitor analysis.
 
 ### Analyze Solutions of Your Product
 
